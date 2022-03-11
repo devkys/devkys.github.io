@@ -104,8 +104,8 @@ analytics:
 # Site Author
 author:
   name             : "kyeongseo Kwon"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "놀고 먹고 빈둥빈둥 그냥저냥 하는 개발준비생"
+  avatar           : "/assets/images/bobb2.jpeg"
+  bio              : "놀고 먹고 빈둥거리는 개발준비생"
   location         : "안알려줘-"
   email            :
   links:
