@@ -20,11 +20,11 @@ title                    : "devkys's blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "kyeongseo Kwon"
-description              : "놀고 먹고 빈둥빈둥 그냥저냥 하는 개발준비생"
+description              : "놀고 먹고 빈둥거리는 개발준비생"
 url                      : "https://devkys.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/bobby2.jpeg"
+teaser                   : "/assets/images/bobb2.jpeg"
 logo                     : #"/assets/images/bobby2.jpeg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 future                   : true
